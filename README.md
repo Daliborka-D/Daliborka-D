@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C# and .net
 - 💞️ I’m looking to collaborate on some projects
 - 📫 How to reach me 
-- 😄 Pronouns: ...
+- 😄 Pronouns: ... 
 - ⚡ Fun fact: cat person 
 
 <!---
